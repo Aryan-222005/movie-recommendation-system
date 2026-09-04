@@ -59,13 +59,13 @@ Movie Recommendations
 
 ## 📊 Recommendation Approach
 
-## TF-IDF
+### TF-IDF
 
 TF-IDF (Term Frequency-Inverse Document Frequency) converts movie metadata into numerical vectors based on the importance of words.
 
 ---
 
-## Cosine Similarity
+### Cosine Similarity
 
 Cosine similarity calculates the similarity between movie vectors. Movies with higher similarity scores are recommended to the user.
 
@@ -75,44 +75,44 @@ Cosine similarity calculates the similarity between movie vectors. Movies with h
 
 The TMDB API is used to retrieve movie information such as:
 
-Movie posters
-Ratings
-Genres
-Release dates
-Popularity
-Movie descriptions
-Movie details
+-Movie posters
+-Ratings
+-Genres
+-Release dates
+-Popularity
+-Movie descriptions
+-Movie details
 
 ---
 
 ## 🛠️ Tech Stack
 
-Machine Learning
-Python
-Pandas
-NumPy
-Scikit-learn
-TF-IDF
-Cosine Similarity
+-Machine Learning
+-Python
+-Pandas
+-NumPy
+-Scikit-learn
+-TF-IDF
+-Cosine Similarity
 
 ---
 
 ## Backend
 
-FastAPI
-Uvicorn
-HTTPX
+-FastAPI
+-Uvicorn
+-HTTPX
 
 ---
 
 ## Frontend
 
-Streamlit
-API
-TMDB API
-Deployment
-Render
-Streamlit Community Cloud
+-Streamlit
+-API
+-TMDB API
+-Deployment
+-Render
+-Streamlit Community Cloud
 
 ---
 
@@ -214,21 +214,21 @@ http://127.0.0.1:8501
 
 ## 🏠 Home Page
 
-![CinemaMatch AI Homepage](images/homepage.png)
+![CinemaMatch AI Homepage](Images/homepage.png)
 
 ---
 
 
 ## 🔍 Movie Search
 
-![CinemaMatch AI Movie Search](images/movie_search.png)
+![CinemaMatch AI Movie Search](Images/movie_search.png)
 
 ---
 
 ## 🎬 Recommendations
 
-![CinemaMatch AI Recommendations](images/recommendations.png)
-![CinemaMatch AI Recommendations](images/recommendations2.png)
+![CinemaMatch AI Recommendations](Images/recommendations.png)
+![CinemaMatch AI Recommendations](Images/recommendations2.png)
 
 
 ---
@@ -259,14 +259,14 @@ Frontend: Streamlit Community Cloud
 
 ## 🔮 Future Improvements
 
-Hybrid recommendation system
-Collaborative filtering
-User authentication
-Personalized recommendations
-Favorites and watchlists
-User preference learning
-Movie trailers
-Database integration
+-Hybrid recommendation system
+-Collaborative filtering
+-User authentication
+-Personalized recommendations
+-Favorites and watchlists
+-User preference learning
+-Movie trailers
+-Database integration
 
 ---
 
