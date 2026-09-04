@@ -75,44 +75,44 @@ Cosine similarity calculates the similarity between movie vectors. Movies with h
 
 The TMDB API is used to retrieve movie information such as:
 
--Movie posters
--Ratings
--Genres
--Release dates
--Popularity
--Movie descriptions
--Movie details
+- Movie posters
+- Ratings
+- Genres
+- Release dates
+- Popularity
+- Movie descriptions
+- Movie details
 
 ---
 
 ## 🛠️ Tech Stack
 
--Machine Learning
--Python
--Pandas
--NumPy
--Scikit-learn
--TF-IDF
--Cosine Similarity
+- Machine Learning
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- TF-IDF
+- Cosine Similarity
 
 ---
 
 ## Backend
 
--FastAPI
--Uvicorn
--HTTPX
+- FastAPI
+- Uvicorn
+- HTTPX
 
 ---
 
 ## Frontend
 
--Streamlit
--API
--TMDB API
--Deployment
--Render
--Streamlit Community Cloud
+- Streamlit
+- API
+- TMDB API
+- Deployment
+- Render
+- Streamlit Community Cloud
 
 ---
 
@@ -211,14 +211,13 @@ http://127.0.0.1:8501
 
 ## 📸 App Preview
 
+---
 
 ## 🏠 Home Page
 
 ![CinemaMatch AI Homepage](Images/homepage.png)
 
 ---
-
-
 ## 🔍 Movie Search
 
 ![CinemaMatch AI Movie Search](Images/movie_search.png)
@@ -228,6 +227,9 @@ http://127.0.0.1:8501
 ## 🎬 Recommendations
 
 ![CinemaMatch AI Recommendations](Images/recommendations.png)
+
+---
+
 ![CinemaMatch AI Recommendations](Images/recommendations2.png)
 
 
@@ -259,14 +261,14 @@ Frontend: Streamlit Community Cloud
 
 ## 🔮 Future Improvements
 
--Hybrid recommendation system
--Collaborative filtering
--User authentication
--Personalized recommendations
--Favorites and watchlists
--User preference learning
--Movie trailers
--Database integration
+- Hybrid recommendation system
+- Collaborative filtering
+- User authentication
+- Personalized recommendations
+- Favorites and watchlists
+- User preference learning
+- Movie trailers
+- Database integration
 
 ---
 
